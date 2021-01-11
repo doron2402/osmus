@@ -4,7 +4,7 @@
   "description": "Multiplayer HTML5 Osmos",
   "main": "server/server.js",
   "dependencies": {
-    "socket.io": "~0.9.16"
+    "socket.io": "~2.4.0"
   },
   "devDependencies": {},
   "scripts": {
